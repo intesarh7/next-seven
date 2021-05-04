@@ -1,0 +1,28 @@
+[
+    {
+        "id": "1",
+        "backgroundImage": "slider-1.jpg",
+        "sliderDate": "22 JAN 21",
+        "sliderTime": "21 HOURS (3 DAYS)",
+        "sliderPlace": "GREEK",
+        "uniqClass": "slider-box slider-box1",
+        "title": "Welcome To Myseminars.",
+        "desc": "Μικτή Εκπαίδευση - Εκπαιδευτής Επαγγελματικής Κατάρτισης επίπεδο ΣΕΠ/CyQF/EQF 5 - Μεγάλης Διάρκειας",
+        "info": "Vocational training instructors play an important role in the development of the human resources of Cyprus and the increase of productivity. The specific program...",
+        "btnOneLink": "course-grid",
+        "btnTwoLink": "contact"
+    },
+    {
+        "id": "2",
+        "backgroundImage": "slider-2.jpg",
+        "sliderDate": "22 JAN 21",
+        "sliderTime": "21 HOURS (3 DAYS)",
+        "sliderPlace": "GREEK",
+        "uniqClass": "slider-box slider-box2 text-right",
+        "title": "Welcome To Myseminars.",
+        "desc": "Μικτή Εκπαίδευση - Εκπαιδευτής Επαγγελματικής Κατάρτισης επίπεδο ΣΕΠ/CyQF/EQF 5 - Μεγάλης Διάρκειας",
+        "info": "Vocational training instructors play an important role in the development of the human resources of Cyprus and the increase of productivity. The specific program...",
+        "btnOneLink": "course-grid",
+        "btnTwoLink": "contact"
+    }
+]

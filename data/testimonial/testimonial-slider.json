@@ -1,0 +1,29 @@
+{
+    "secTitle": "Lets See What Our Valuable Students Think About Us. Their Testimonials.",
+    "backgroundImage": "vd-bg.jpg",
+    "dataList": [
+        {
+            "id": "1",
+            "testimonialTitle": "It is great to be a part of this community.",
+            "testimonialDesc": "Επιτέλους ένας ιστότοπος επαγγελματικά δομημένος με στόχο να στηρίξει την προσωπική και επαγγελματική ανάπτυξη του κάθε επαγγελματία στην Κύπρο. Συγκεντρωμένες όλες οι επιλογές σε ένα τόπο, μπορεί πλέον να αξιολογήσει ο κάθε εργοδότης, καθώς και ο καθένας ξεχωριστά τις επιλογές που υπάρχουν έξω στη αγορά.",            "authorImg": "testimonial-1.jpg",
+            "authorName": "Charalambos Flouri",
+            "authorTitle": "Managing Director Dale Carnegie Cyprus"
+        },
+        {
+            "id": "2",
+            "testimonialTitle": "It is great to be a part of this community.",
+            "testimonialDesc": "Επιτέλους ένας ιστότοπος επαγγελματικά δομημένος με στόχο να στηρίξει την προσωπική και επαγγελματική ανάπτυξη του κάθε επαγγελματία στην Κύπρο. Συγκεντρωμένες όλες οι επιλογές σε ένα τόπο, μπορεί πλέον να αξιολογήσει ο κάθε εργοδότης, καθώς και ο καθένας ξεχωριστά τις επιλογές που υπάρχουν έξω στη αγορά.",            "authorImg": "testimonial-2.jpg",
+            "authorName": "Charalambos Flouri",
+            "authorTitle": "Managing Director Dale Carnegie Cyprus"
+        }
+        ,
+        {
+            "id": "3",
+            "testimonialTitle": "It is great to be a part of this community.",
+            "testimonialDesc": "Επιτέλους ένας ιστότοπος επαγγελματικά δομημένος με στόχο να στηρίξει την προσωπική και επαγγελματική ανάπτυξη του κάθε επαγγελματία στην Κύπρο. Συγκεντρωμένες όλες οι επιλογές σε ένα τόπο, μπορεί πλέον να αξιολογήσει ο κάθε εργοδότης, καθώς και ο καθένας ξεχωριστά τις επιλογές που υπάρχουν έξω στη αγορά.",
+            "authorImg": "testimonial-2.jpg",
+            "authorName": "Charalambos Flouri",
+            "authorTitle": "Managing Director Dale Carnegie Cyprus"
+        }
+    ]
+}

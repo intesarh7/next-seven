@@ -1,0 +1,71 @@
+{
+    "secTitle": "Αρθογραφία - Η Ανεκτίμιτη άποψη των ειδικών",
+    "dataList": [
+        {
+            "id": "1",
+            "postImg": "blog-1.jpg",
+            "postLink": "/",
+            "postDate": "25 Mar",
+            "postTitle": "MySeminars Editorial Team",
+            "postExcerpt": "Τα πέντε συχνότερα λάθη που κάνουν όσοι αναζητούν εργασία",
+            "authorLink": "/",
+            "commentLink": "/",
+            "likeLink": "/"
+        },
+        {
+            "id": "2",
+            "postImg": "blog-2.jpg",
+            "postLink": "/",
+            "postDate": "25 Mar",
+            "postTitle": "MySeminars Editorial Team",
+            "postExcerpt": "Τα πέντε συχνότερα λάθη που κάνουν όσοι αναζητούν εργασία",
+            "authorLink": "/",
+            "commentLink": "/",
+            "likeLink": "/"
+        },
+        {
+            "id": "3",
+            "postImg": "blog-3.jpg",
+            "postLink": "/",
+            "postDate": "25 Mar",
+            "postTitle": "MySeminars Editorial Team",
+            "postExcerpt": "Τα πέντε συχνότερα λάθη που κάνουν όσοι αναζητούν εργασία",
+            "authorLink": "/",
+            "commentLink": "/",
+            "likeLink": "/"
+        },
+        {
+            "id": "4",
+            "postImg": "blog-4.jpg",
+            "postLink": "/",
+            "postDate": "25 Mar",
+            "postTitle": "MySeminars Editorial Team",
+            "postExcerpt": "Τα πέντε συχνότερα λάθη που κάνουν όσοι αναζητούν εργασία",
+            "authorLink": "/",
+            "commentLink": "/",
+            "likeLink": "/"
+        },
+        {
+            "id": "5",
+            "postImg": "blog-4.jpg",
+            "postLink": "/",
+            "postDate": "25 Mar",
+            "postTitle": "MySeminars Editorial Team",
+            "postExcerpt": "Τα πέντε συχνότερα λάθη που κάνουν όσοι αναζητούν εργασία",
+            "authorLink": "/",
+            "commentLink": "/",
+            "likeLink": "/"
+        },
+        {
+            "id": "6",
+            "postImg": "blog-4.jpg",
+            "postLink": "/",
+            "postDate": "25 Mar",
+            "postTitle": "MySeminars Editorial Team",
+            "postExcerpt": "Τα πέντε συχνότερα λάθη που κάνουν όσοι αναζητούν εργασία",
+            "authorLink": "/",
+            "commentLink": "/",
+            "likeLink": "/"
+        }
+    ]
+}

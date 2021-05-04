@@ -1,0 +1,156 @@
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinTextBlack-Regular.eot');
+    src: url('PFDinTextBlack-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PFDinTextBlack-Regular.woff2') format('woff2'),
+        url('PFDinTextBlack-Regular.woff') format('woff'),
+        url('PFDinTextBlack-Regular.ttf') format('truetype'),
+        url('PFDinTextBlack-Regular.svg#PFDinTextBlack-Regular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinTextMedium-Regular.eot');
+    src: url('PFDinTextMedium-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PFDinTextMedium-Regular.woff2') format('woff2'),
+        url('PFDinTextMedium-Regular.woff') format('woff'),
+        url('PFDinTextMedium-Regular.ttf') format('truetype'),
+        url('PFDinTextMedium-Regular.svg#PFDinTextMedium-Regular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinTextMedium-Italic.eot');
+    src: url('PFDinTextMedium-Italic.eot?#iefix') format('embedded-opentype'),
+        url('PFDinTextMedium-Italic.woff2') format('woff2'),
+        url('PFDinTextMedium-Italic.woff') format('woff'),
+        url('PFDinTextMedium-Italic.ttf') format('truetype'),
+        url('PFDinTextMedium-Italic.svg#PFDinTextMedium-Italic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinTextLight-Regular.eot');
+    src: url('PFDinTextLight-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PFDinTextLight-Regular.woff2') format('woff2'),
+        url('PFDinTextLight-Regular.woff') format('woff'),
+        url('PFDinTextLight-Regular.ttf') format('truetype'),
+        url('PFDinTextLight-Regular.svg#PFDinTextLight-Regular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinText-Bold.eot');
+    src: url('PFDinText-Bold.eot?#iefix') format('embedded-opentype'),
+        url('PFDinText-Bold.woff2') format('woff2'),
+        url('PFDinText-Bold.woff') format('woff'),
+        url('PFDinText-Bold.ttf') format('truetype'),
+        url('PFDinText-Bold.svg#PFDinText-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinTextBlack-Italic.eot');
+    src: url('PFDinTextBlack-Italic.eot?#iefix') format('embedded-opentype'),
+        url('PFDinTextBlack-Italic.woff2') format('woff2'),
+        url('PFDinTextBlack-Italic.woff') format('woff'),
+        url('PFDinTextBlack-Italic.ttf') format('truetype'),
+        url('PFDinTextBlack-Italic.svg#PFDinTextBlack-Italic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinTextLight-Italic.eot');
+    src: url('PFDinTextLight-Italic.eot?#iefix') format('embedded-opentype'),
+        url('PFDinTextLight-Italic.woff2') format('woff2'),
+        url('PFDinTextLight-Italic.woff') format('woff'),
+        url('PFDinTextLight-Italic.ttf') format('truetype'),
+        url('PFDinTextLight-Italic.svg#PFDinTextLight-Italic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinText-BoldItalic.eot');
+    src: url('PFDinText-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('PFDinText-BoldItalic.woff2') format('woff2'),
+        url('PFDinText-BoldItalic.woff') format('woff'),
+        url('PFDinText-BoldItalic.ttf') format('truetype'),
+        url('PFDinText-BoldItalic.svg#PFDinText-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinText-Italic.eot');
+    src: url('PFDinText-Italic.eot?#iefix') format('embedded-opentype'),
+        url('PFDinText-Italic.woff2') format('woff2'),
+        url('PFDinText-Italic.woff') format('woff'),
+        url('PFDinText-Italic.ttf') format('truetype'),
+        url('PFDinText-Italic.svg#PFDinText-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinText-Regular.eot');
+    src: url('PFDinText-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PFDinText-Regular.woff2') format('woff2'),
+        url('PFDinText-Regular.woff') format('woff'),
+        url('PFDinText-Regular.ttf') format('truetype'),
+        url('PFDinText-Regular.svg#PFDinText-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinTextThin-Regular.eot');
+    src: url('PFDinTextThin-Regular.eot?#iefix') format('embedded-opentype'),
+        url('PFDinTextThin-Regular.woff2') format('woff2'),
+        url('PFDinTextThin-Regular.woff') format('woff'),
+        url('PFDinTextThin-Regular.ttf') format('truetype'),
+        url('PFDinTextThin-Regular.svg#PFDinTextThin-Regular') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PF Din Text';
+    src: url('PFDinTextThin-Italic.eot');
+    src: url('PFDinTextThin-Italic.eot?#iefix') format('embedded-opentype'),
+        url('PFDinTextThin-Italic.woff2') format('woff2'),
+        url('PFDinTextThin-Italic.woff') format('woff'),
+        url('PFDinTextThin-Italic.ttf') format('truetype'),
+        url('PFDinTextThin-Italic.svg#PFDinTextThin-Italic') format('svg');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
